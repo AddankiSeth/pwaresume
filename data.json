@@ -1,0 +1,46 @@
+{"details":{
+  "image":"kal.jpg",
+  "name":"Addanki Seth",
+  "phno":"+91-7386114757",
+  "email":"sethaddanki7@gmail.com",
+  "Address":"Veerulapadu"
+},
+"career":{
+   "head": "Career Objective",
+    "para" : "Kaala is a 2018 Indian Tamil-language Gangster action drama film written and directed by Pa. Ranjith and produced by Dhanush."
+},
+"education":[
+  {
+  "qualification":"B-Tech",
+  "institute":"MIC college",
+  "year":"2016-2020",
+  "percentage":"98%"
+},
+{
+  "qualification":"Intermediate",
+  "institute":"Narayana",
+  "year":"2014-2016",
+  "percentage":"98%"
+},
+{
+"qualification":"SSC",
+"institute":"SDA school",
+"year":"2013-2014",
+"percentage":"100%"
+  }
+],
+"skills":[{
+  "title":"Programming language",
+  "info":["C,C++,Java,Python,R"]
+
+},
+{
+  "title":"Data Bases",
+  "info":["Oracle,SQL,Mysql,Tinydb"]
+},
+{
+  "title":"Operating Systems",
+  "info":["Windows,Linux,Ubuntu,Android"]
+}
+]
+}

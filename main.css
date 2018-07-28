@@ -1,0 +1,36 @@
+*{
+  color:white;
+}
+h1,h2,h3,h4{
+  color:yellow;
+}
+a{
+  color:rgb(0,200,0);
+}
+.parent{
+  border: 3px solid red;
+  display: flex;
+  flex-direction: row;
+background-image: url(kala.jpg);
+}
+.childone{
+  border: 2px solid black;
+  padding:3%;
+  margin:2%;
+  width: 50%;
+}
+.childtwo{
+  border: 2px solid black;
+  padding:2%;
+  margin:2%;
+  width: 60%;
+}
+.childone img{
+  width:58%;
+  border:2px solid red;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 5px 8px 9px black;
+}

@@ -56,7 +56,7 @@ function basics(det){
   email.textContent = det.email;
   child1.appendChild(email);
   var address = document.createElement("h2");
-  address.textContent = "address";
+  address.textContent = "Address";
   child1.appendChild(address);
   var hr = document.createElement("hr");
   child1.appendChild(hr);

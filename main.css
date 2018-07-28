@@ -11,7 +11,7 @@ a{
   border: 3px solid red;
   display: flex;
   flex-direction: row;
-background-image: url(kala.jpg);
+background-image: url(m.jpg);
 }
 .childone{
   border: 2px solid black;
